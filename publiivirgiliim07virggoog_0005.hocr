@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiivirgiliim07virggoog/publiivirgiliim07virggoog_0005.png"; bbox 0 0 567 890; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 69 327 476 360">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 5 312 476 374">
+     <span class='ocr_line' id='line_1_1' title="bbox 69 327 476 360; baseline 0.002 -0.864"><span class='ocrx_word' id='word_1_1' title='bbox 69 331 104 359; x_wconf 54' lang='grc' dir='ltr'>[η</span> <span class='ocrx_word' id='word_1_2' title='bbox 133 327 286 360; x_wconf 69' lang='lat' dir='ltr'>VIRGlLll&#39;</span> <span class='ocrx_word' id='word_1_3' title='bbox 304 327 458 360; x_wconf 80' lang='lat' dir='ltr'><strong>MARONIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 474 340 476 343; x_wconf 37' lang='lat' dir='ltr'>v</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 216 412 315 434">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 216 412 315 434">
+     <span class='ocr_line' id='line_1_2' title="bbox 216 412 315 434; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 216 412 315 434; x_wconf 80' lang='lat' dir='ltr'>OPERA</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
